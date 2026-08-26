@@ -1,5 +1,0 @@
-flask
-pytz
-requests
-python-dotenv
-gunicorn
